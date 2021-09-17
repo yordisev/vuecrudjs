@@ -1,5 +1,6 @@
 <?php include 'includes/navbar.php' ?>
-        <div class="container">                
+        <div class="container">    
+        <h2 class="text-center text-dark"><span class="badge badge-success">Test de link</span></h2>            
             <div class="row">       
                 <div class="col">        
                     <button @click="btnAlta" class="btn btn-success" title="Nuevo"><i class="fas fa-plus-circle fa-2x"></i></button>
