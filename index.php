@@ -18,11 +18,11 @@
     <header>
         <h2 class="text-center text-dark"><span class="badge badge-success">CRUD con VUE.JS</span></h2>
     </header>    
-    <ul class="treeview-menu">
-            <li class=""><a href="prueba.php"><i class="fa fa-arrow-right"></i>Generar Turno</a></li>
-            <li class=""><a href="gestionar_turno.php"><i class="fa fa-arrow-right"></i>Llamar Turno</a></li>
-          </ul>
-     <div id="appMoviles">               
+    <div id="appMoviles">               
+         <ul class="treeview-menu">
+                 <li class=""><a href="prueba.php"><i class="fa fa-arrow-right"></i>Generar Turno</a></li>
+                 <li class=""><a href="gestionar_turno.php"><i class="fa fa-arrow-right"></i>Llamar Turno</a></li>
+               </ul>
         <div class="container">                
             <div class="row">       
                 <div class="col">        
