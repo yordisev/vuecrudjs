@@ -1,6 +1,6 @@
 <?php include 'includes/navbar.php' ?>              
         
-        <div class="container"> 
+    
         <h2 class="text-center text-dark"><span class="badge badge-success">CRUD con VUE.JS</span></h2>               
             <div class="row">       
                 <div class="col">        
@@ -43,5 +43,5 @@
                     </table>                    
                 </div>
             </div>
-        </div>        
+            
         <?php include 'includes/footer.php' ?>
